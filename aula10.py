@@ -1,10 +1,10 @@
-entrada = input('você gostaria de 1 xis do speed? ')
+entrada = input('Você gostaria de adquirir um xis? ')
 
-if entrada == 'sim':
-    print('parabéns! você acaba de ganhar 1 xis do speed')
-elif entrada == 'não':
-    print('tudo bem, é os guri e não adianta')
+if entrada == 'Sim':
+    print('Parabéns! você acaba de ganhar 1 xis do speed')
+elif entrada == 'Não':
+    print('Tudo bem, fica para a próxima.')
 else:
-    print('não entendi cpx, tu quer ou tu não quer o xis?') # else sempre a última coisa a ser executada
+    print('Não entendi muito bem, você gostaria de adquirir o xis ou não?') # else sempre a última coisa a ser executada
 
     
