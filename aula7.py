@@ -1,4 +1,4 @@
-nome = 'kirei gekido'
+nome = 'thalys garcia'
 altura = 1.79
 peso = 60
 imc = (peso) / (altura * altura)
