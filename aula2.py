@@ -1,8 +1,8 @@
 # Posso escrever um comentário :)
-print ('laurinha')
+print ('boa noite, amigos')
 """
 escrevendo qualquer
-coisa tá ligado!! DocString
+coisa!! DocString
 """
 print(12, 78, sep='-')
 print(54, 98, sep=" = ")
