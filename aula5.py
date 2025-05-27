@@ -1,5 +1,5 @@
-nome = 'kirei'
-sobrenome = 'gekido'
+nome = 'Thalys'
+sobrenome = 'Garcia'
 idade = 26
 ano_nascimento = 1999
 maior_de_idade = idade >= 18
