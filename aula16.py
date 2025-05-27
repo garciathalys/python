@@ -1,5 +1,5 @@
 # fatiamento de strings e função len
 
-variavel = 'vamoooo é os guri'
+variavel = 'boa noite, amigos'
 print(len(variavel))
 print(variavel[ : : -1])
